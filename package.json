@@ -1,0 +1,28 @@
+{
+  "name": "simple-boilerplate-expressjs",
+  "version": "1.0.0",
+  "description": "simple boilerplate express js for mysql",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zainal21/Simple-Bolierplate-ExpressJS-for-MySQL.git"
+  },
+  "author": "Muhamad Zainal Arifin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zainal21/Simple-Bolierplate-ExpressJS-for-MySQL/issues"
+  },
+  "homepage": "https://github.com/Zainal21/Simple-Bolierplate-ExpressJS-for-MySQL#readme"
+}
